@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="900" height="600" />
+  <img src="header.png" width="700" height="400" />
 </p>
 
 # Analyze the Stroop Effect.
